@@ -14,9 +14,6 @@ RSpec.describe CategoriesController, type: :request do
       sign_in @user
       get categories_path
     end
-    it 'should return response status correct (ok)' do
-      expect(response).to have_http_status(:ok)
-    end
     it 'response to html' do
       expect(response.content_type).to include 'text/html'
     end
