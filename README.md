@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/iwXJcq2.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Recipe App</b></h3>
+  <h3><b>Budget App</b></h3>
 </div>
 <!-- TABLE OF CONTENTS -->
 
@@ -40,9 +40,21 @@ Budget app is an app for managing transactions with categorized lists, sign-up a
 
 ### Key Features <a name="key-features"></a>
 
-> - Add foods.
-> - List foods.
-> - Add recipes.
+> - Add Categories.
+> - List Categories.
+> - Add Transacions.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://budget-br2s.onrender.com/)- Powered by Render
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Video Presentation <a name="presentation"></a>
+
+- [Video Presentation Link](https://www.loom.com/share/1735305b039a438685040b0b00894bc0)- Powered by Loom
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,8 +159,9 @@ If you like this project, please leave a ⭐️
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+- Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) in accordance with the [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/).
 
-I would like to thank Microverse for providing us with reading materials that aided us to during the project development
+- I would like to thank Microverse for providing us with reading materials that aided us to during the project development
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
