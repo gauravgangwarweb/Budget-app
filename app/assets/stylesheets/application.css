@@ -73,8 +73,8 @@ h1 {
 }
 
 .save-catagory input {
-  width: auto !important;
-  height: auto !important;
+  width: auto;
+  height: auto;
   padding: 10px;
   border: 1px solid white;
 }
@@ -183,7 +183,7 @@ a {
 }
 
 .white-color {
-  color: white !important;
+  color: white;
 }
 
 .new_user {
